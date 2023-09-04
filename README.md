@@ -1,2 +1,2 @@
 # Hi, Absaar.
-Student, owner of motivation that stems from nothing within.
+Coder, owner of motivation that stems from nothing within.
